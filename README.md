@@ -1,6 +1,6 @@
 # video-transcript-summarizer
 This is a project that automates summary of the content in a YouTube video by analyzing the transcript of the video's
-audio using OpenCV (Python), where I have successfully provided a summarized transcript for this year video by handling the Token Limit of the LLM by recursively breaking down a 2-hour transcript into semantic chunks.
+audio using OpenCV (Python), where I have successfully provided a summarized transcript for the yt video by handling the Token Limit of the LLM by recursively breaking down a 2-hour transcript into semantic chunks.
 
 [PROJECT LINK] -->[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fxX_3ut4h3ykbcNtgcXX1RvdXHSg4dsz)
 
